@@ -1,7 +1,7 @@
 # What is dRimWeb?
 
 {% hint style="info" %}
-**Good to know:** dRimWeb is building the next generation of the internet.
+**dRimWeb** is a DAO (Decetralized Autonomous Organization) for building the next generation of the internet.
 {% endhint %}
 
 Here are a couple of examples of succinct overviews from products with really great docs:
