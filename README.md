@@ -38,8 +38,8 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [creating-your-first-task.md](overview/creating-your-first-task.md)
 {% endcontent-ref %}
 
-{% content-ref url="overview/how-to-contribute-to-drimweb.md" %}
-[how-to-contribute-to-drimweb.md](overview/how-to-contribute-to-drimweb.md)
+{% content-ref url="overview/advanced-permissions.md" %}
+[advanced-permissions.md](overview/advanced-permissions.md)
 {% endcontent-ref %}
 
 {% hint style="info" %}
