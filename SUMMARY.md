@@ -4,8 +4,9 @@
 
 ## Overview
 
-* [Why need drimweb?](overview/web-need-drimweb.md)
-* [Who will benefit from dDimWeb?](overview/who-benefit-from-drimweb.md)
+* [Why need drimweb?](overview/creating-your-first-project.md)
+* [Who will benefit from dDimWeb?](overview/creating-your-first-task.md)
+* [Who will contribute to dRimWeb?](overview/who-contribute-to-drimweb.md)
 * [Roadmap](overview/roadmap.md)
 
 ## DAO
