@@ -6,15 +6,15 @@
 
 The dRimWeb community ...
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Point 1 
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
+> Point 2
 >
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
+> — From the [an external link](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
+> Point 3
 >
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> — From the [an external link](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
 ## Getting Started
 
