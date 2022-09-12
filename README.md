@@ -4,7 +4,7 @@
 **dRimWeb** is a DAO (Decetralized Autonomous Organization) for building the next generation of the internet.
 {% endhint %}
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+The dRimWeb community ...
 
 > Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
 >
