@@ -15,6 +15,7 @@
 * [Governance Model](dao/members.md)
 * [Incentive Model](dao/task-lists.md)
 * [How does it work?](dao/tasks.md)
+* [Join DAO](dao/join-dao.md)
 
 ## Products
 
@@ -28,8 +29,8 @@
 
 ## Tokenomics
 
-* [What is dRimWeb token](tokenomics/keyboard-shortcuts.md)
-* [Utility](tokenomics/utility.md)
+* [What is dRimWeb token?](tokenomics/keyboard-shortcuts.md)
+* [Token Utility](tokenomics/token-utility.md)
 * [Treasury](tokenomics/treasury.md)
 * [Incentives](tokenomics/incentives.md)
 * [Token Allocation](tokenomics/token-allocation.md)
