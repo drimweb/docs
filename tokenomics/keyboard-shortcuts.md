@@ -1,4 +1,10 @@
-# Keyboard Shortcuts
+---
+description: >-
+  The token is used as a governance token and economics incentives within
+  dRimWeb economy.
+---
+
+# What is dRimWeb token
 
 {% hint style="info" %}
 **Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
