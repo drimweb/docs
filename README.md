@@ -1,12 +1,18 @@
+---
+description: >-
+  dRimWeb is a DAO (Decetralized Autonomous Organization) for building the next
+  generation of the internet, specialized in Web3 technologies.
+---
+
 # What is dRimWeb?
 
 {% hint style="info" %}
-**dRimWeb** is a DAO (Decetralized Autonomous Organization) for building the next generation of the internet.
+**This is a working in progress document.**
 {% endhint %}
 
 The dRimWeb community ...
 
-> Point 1 
+> Point 1
 >
 > Point 2
 >
