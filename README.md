@@ -7,7 +7,7 @@ description: >-
 # What is dRimWeb?
 
 {% hint style="info" %}
-**This is a working in progress document.**
+**This is a working in progress document (for internal use only)**
 {% endhint %}
 
 The dRimWeb community ...
