@@ -22,19 +22,15 @@ The dRimWeb community ...
 >
 > — From the [an external link](https://mailchimp.com/developer/marketing/docs/fundamentals/)
 
-## Getting Started
+## Overview
 
-**Got 2 minutes?** Check out a video overview of our product:
+**Got 2 minutes?** Check out a video overview of dRimWeb:
 
 {% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
 
-{% hint style="info" %}
-**Good to know:** A succinct video overview is a great way to introduce folks to your product. Embed a Loom, Vimeo or YouTube video and you're good to go! We love this video from the fine folks at [Loom](https://loom.com) as a perfect example of a succinct feature overview.
-{% endhint %}
+### Jump right in
 
-### Guides: Jump right in
-
-Follow our handy guides to get started on the basics as quickly as possible:
+Follow our handy guides to get to know dRimWeb:
 
 {% content-ref url="overview/creating-your-first-project.md" %}
 [creating-your-first-project.md](overview/creating-your-first-project.md)
@@ -48,11 +44,7 @@ Follow our handy guides to get started on the basics as quickly as possible:
 [advanced-permissions.md](overview/advanced-permissions.md)
 {% endcontent-ref %}
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
-
-### Fundamentals: Dive a little deeper
+### Dive a little deeper
 
 Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
 
@@ -71,7 +63,3 @@ Learn the fundamentals of MyProduct to get a deeper understanding of our main fe
 {% content-ref url="dao/tasks.md" %}
 [tasks.md](dao/tasks.md)
 {% endcontent-ref %}
-
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them. Combine guides with this approach to 'fundamentals' and you're well on your way to great documentation!
-{% endhint %}
