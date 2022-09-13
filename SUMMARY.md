@@ -19,7 +19,7 @@
 
 ## Products
 
-* [Edge Nodes Network](products/for-designers/README.md)
+* [P2P Edge Nodes Network](products/for-designers/README.md)
   * [Section 1](products/for-designers/figma-integration.md)
 * [Decentralized Marketplace](products/for-engineers/README.md)
   * [Section 1](products/for-engineers/github-integration.md)
