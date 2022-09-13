@@ -30,7 +30,7 @@ The dRimWeb community ...
 
 ### Jump right in
 
-Follow our handy guides to get to know dRimWeb:
+Look at the following to get to know dRimWeb:
 
 {% content-ref url="overview/creating-your-first-project.md" %}
 [creating-your-first-project.md](overview/creating-your-first-project.md)
@@ -46,7 +46,7 @@ Follow our handy guides to get to know dRimWeb:
 
 ### Dive a little deeper
 
-Learn the fundamentals of MyProduct to get a deeper understanding of our main features:
+Learn the fundamentals of the DAO design to get a deeper understanding of the DAO main features:
 
 {% content-ref url="dao/projects.md" %}
 [projects.md](dao/projects.md)
