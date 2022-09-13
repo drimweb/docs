@@ -4,7 +4,7 @@ description: >-
   generation of internet, specifically in Web3 technologies.
 ---
 
-![](tree/main/.gitbook/assets/dRimWeb-image01-v0.1.png)
+![](.gitbook/assets/dRimWeb-image01-v0.1.png)
 
 # What is dRimWeb?
 
