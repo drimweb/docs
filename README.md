@@ -6,7 +6,7 @@ Web3 and Metaverse technologies are exciting development, however, they are stil
 
 ![Next Generation of Internet](.gitbook/assets/dRimWeb-image01-v0.1.png)
 
-## What is dRimWeb?
+## Future State of Web3 and Metaverse?
 
 {% hint style="info" %}
 **This is a working in progress document (for internal use only)**
