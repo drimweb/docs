@@ -4,7 +4,7 @@
 
 Web3 and Metaverse technologies are exciting development, however, they are still some time away from becoming general purpose technology (GPT). dRimWeb DAO will first grasp the macro and to start break it down, split it up and then focus on the key impactful areas.
 
-![Next Generation of Internet](.gitbook/assets/Web3 and Metaverse and DAO.png)
+![Next Generation of Internet](.gitbook/assets/web3-metaverse-dao.png)
 
 ## Future State of Web3 and Metaverse?
 
