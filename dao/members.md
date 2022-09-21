@@ -1,5 +1,5 @@
-# Governance Model
+# Members
 
 {% hint style="info" %}
-**This is a working in progress document (for internal review before it is ready for public)**
+**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
 {% endhint %}

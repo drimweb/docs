@@ -9,28 +9,18 @@ Web3 and Metaverse technologies are exciting development, however, they are stil
 
 
 {% hint style="info" %}
-**This is a working in progress document (for internal use only)**
+**This is a working in progress document (for internal review before it is ready for public)**
 {% endhint %}
 
-The dRimWeb community ...
 
-> Point 1
->
-> Point 2
->
-> — From the [an external link](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
 
-> Point 3
->
-> — From the [an external link](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+**Got 2 minutes?** Check out a overview presentation deck of dRimWeb:
 
-### Overview
 
-**Got 2 minutes?** Check out a video overview of dRimWeb:
 
-{% embed url="https://www.loom.com/share/3bfa83acc9fd41b7b98b803ba9197d90" %}
 
-#### Jump right in
+
+#### Overview
 
 Look at the following to get to know dRimWeb:
 
@@ -46,7 +36,7 @@ Look at the following to get to know dRimWeb:
 [advanced-permissions.md](overview/advanced-permissions.md)
 {% endcontent-ref %}
 
-#### Dive a little deeper
+#### DAO
 
 Learn the fundamentals of the DAO design to get a deeper understanding of the DAO main features:
 

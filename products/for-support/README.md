@@ -1,5 +1,5 @@
-# Web3 Infrastructure
+# For Support
 
 {% hint style="info" %}
-**This is a working in progress document (for internal review before it is ready for public)**
+**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
 {% endhint %}
