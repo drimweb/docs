@@ -20,7 +20,7 @@ Web3 and Metaverse technologies are exciting development, however, they are stil
 
 
 
-#### Jump right in
+#### Overview
 
 Look at the following to get to know dRimWeb:
 
@@ -36,7 +36,7 @@ Look at the following to get to know dRimWeb:
 [advanced-permissions.md](overview/advanced-permissions.md)
 {% endcontent-ref %}
 
-#### Dive a little deeper
+#### DAO
 
 Learn the fundamentals of the DAO design to get a deeper understanding of the DAO main features:
 
