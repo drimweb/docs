@@ -1,5 +1,5 @@
-# Members
+# Governance Model
 
-{% hint style="info" %}
-**Good to know:** Splitting your product into fundamental concepts, objects, or areas can be a great way to let readers deep dive into the concepts that matter most to them.
-{% endhint %}
+When funds are put into the DAO, that means the funds are put into DAO's treasury that is used to back the project tokens.
+
+Money in the treasury is managed with a “multi-sig” wallet that is to be managed by a set of trusted DAO members who enact decisions taken by the DAO.
