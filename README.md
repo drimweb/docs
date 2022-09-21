@@ -2,7 +2,7 @@
 
 **dRimWeb** is a DAO (Decetralized Autonomous Organization) focused on funding and developing public goods(e.g. open source softwares) in Metaverse and Web3 ecosystems.
 
-Web3 and Metaverse technologies are exciting development, however, they are still some time away from becoming general purpose technology (GPT). dRimWeb DAO will first grasp the macro and to start break it down, split it up and then focus on the key impactful areas.
+Web3 and Metaverse technologies are exciting development, however, they are still some time away from becoming general purpose technology (GPT). dRimWeb DAO will first grasp the macro and to start break it down, split it up and then focus on the key impactful areas for public goods and commons.
 
 ![Web3 and Metaverse for Next Generation of Internet (the illustrative idea from Andy Martin)](.gitbook/assets/web3-metaverse-dao.png)
 
