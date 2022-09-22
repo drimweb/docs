@@ -10,6 +10,12 @@ The core team (consisting of world-class academic researchers, technology archit
 
 ![Web3 and Metaverse for Next Generation of Internet (the illustrative idea from Andy Martin)](.gitbook/assets/web3-metaverse-dao.png)
 
+The DAO will explore the possible innovations using Web3 and Metaverse in New World and Hybridy World:
+
+&#x20;create new business models or evolve the legacy businesses with DAO and DAO tokenomics
+
+
+
 {% hint style="info" %}
 **This is a working in progress document (for internal review before it is ready for public)**
 {% endhint %}
