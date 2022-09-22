@@ -20,9 +20,6 @@ The DAO will explore the possible innovations (for creating public goods) using 
 - users are able control, manage, share, trade their own data and creativity
 - community-drive and decentralized infrastructure and services for Web3 and Metaverse
 
-
-**Got 2 minutes?** Check out a overview presentation deck of dRimWeb:
-
 #### Overview
 
 Look at the following to get to know dRimWeb:
