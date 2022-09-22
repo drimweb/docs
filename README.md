@@ -1,5 +1,9 @@
 # What is dRimWeb?
 
+{% hint style="info" %}
+**This is a working in progress document (for internal review before it is ready for public)**
+{% endcontent-ref %}
+
 **dRimWeb** is a DAO (Decetralized Autonomous Organization) focused on funding and developing public goods(e.g. open source softwares) in Metaverse and Web3 ecosystems.
 
 ![Web3 and Metaverse Overlap](.gitbook/assets/web3-metaverse-overlap.png)
@@ -16,11 +20,6 @@ The DAO will explore the possible innovations (for creating public goods) using 
 - users are able control, manage, share, trade their own data and creativity
 - community-drive and decentralized infrastructure and services for Web3 and Metaverse
 
-
-
-{% hint style="info" %}
-**This is a working in progress document (for internal review before it is ready for public)**
-{% endhint %}
 
 **Got 2 minutes?** Check out a overview presentation deck of dRimWeb:
 
