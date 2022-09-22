@@ -1,5 +1,3 @@
 # How to contribute to dRimWeb?
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+Everyone who wants to create public goods or provide economics support can join the DAO to contribute. Refer to the DAO design for the details. 
