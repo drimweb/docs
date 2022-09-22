@@ -1,5 +1,3 @@
-# Who will benefit from dDimWeb?
+# Who will benefit from dRimWeb?
 
-{% hint style="info" %}
-**Good to know:** your product docs aren't just a reference of all your features! use them to encourage folks to perform certain actions and discover the value in your product.
-{% endhint %}
+dRimWeb aims to create public goods in Web3 and Metaverse, therefore public will benefit from the project. With the DAO Economics, the contributors, DAO members will also benefit from the project.
