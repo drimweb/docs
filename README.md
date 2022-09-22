@@ -6,21 +6,15 @@
 
 Web3 and Metaverse technologies are exciting development, however, they are still some time away from becoming general purpose technology (GPT). dRimWeb DAO will first grasp the macro and to start break it down, split it up and then focus on the key impactful areas for public goods.
 
+The core team (consisting of world-class academic researchers, technology architects and industry practitioners) will initially identify the key product initiatives to start with. When more and and domain experts,  potential users join the DAO, the product conceptual designs will be further validated and adapted to ensure the products will be aiming to solve problems and provide benefits for public, directly or indirectly.
+
 ![Web3 and Metaverse for Next Generation of Internet (the illustrative idea from Andy Martin)](.gitbook/assets/web3-metaverse-dao.png)
-
-
 
 {% hint style="info" %}
 **This is a working in progress document (for internal review before it is ready for public)**
 {% endhint %}
 
-
-
 **Got 2 minutes?** Check out a overview presentation deck of dRimWeb:
-
-
-
-
 
 #### Overview
 
