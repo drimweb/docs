@@ -1,7 +1,11 @@
-# What is dRimWeb token?
+---
+description: >-
+  The token is used as a governance token and economics incentives within
+  dRimWeb economy.
+---
+
+# What is dRimWeb token
 
 {% hint style="info" %}
-**This is a working in progress document (for internal review before it is ready for public)**
+**Good to know:** depending on the product you're building, it can be useful to explicitly document use cases. Got a product that can be used by a bunch of people in different ways? Maybe consider splitting it out!
 {% endhint %}
-
-dRimWeb token is a DAO governance token, also a utility token to be used in the dRimWeb ecosystem including the open sources created by dRimWeb.
