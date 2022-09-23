@@ -1,24 +1,24 @@
 # What is dRimWeb?
 
 {% hint style="info" %}
-**This is a working in progress document (for internal review before it is ready for public)**
-{% endcontent-ref %}
+**This is a working in progress document (for initial drafting and internal review before it is ready for public)**
+{% endhint %}
 
-**dRimWeb** is a DAO (Decetralized Autonomous Organization) focused on funding and developing public goods(e.g. open source softwares) in Metaverse and Web3 ecosystems.
+**dRimWeb** is a community driven project focused on funding and developing public goods in Metaverse and Web3 ecosystems. It aims to create and aggregate all the open-source resources required for building Web3 and Metaverse.&#x20;
 
-![Web3 and Metaverse Overlap](.gitbook/assets/web3-metaverse-overlap.png)
+![Web3 and Metaverse - next generation of internet](.gitbook/assets/web3-metaverse-overlap.png)
 
-Web3 and Metaverse technologies are exciting development, however, they are still some time away from becoming general purpose technology (GPT). dRimWeb DAO will first grasp the macro and to start break it down, split it up and then focus on the key impactful areas for public goods.
+Web3 and Metaverse technologies are exciting development, however, they are still some time away from becoming general purpose technology (GPT). dRimWeb will first grasp the macro and to start break it down, split it up and then focus on the key impactful areas for public goods.
 
-The core team (consisting of world-class academic researchers, technology architects and industry practitioners) will initially identify the key product initiatives to start with. When more and and domain experts,  potential users join the DAO, the product conceptual designs will be further validated and adapted to ensure the products will be aiming to solve problems and provide benefits for public, directly or indirectly.
+The core team (consisting of world-class academic researchers, technology architects and industry practitioners) will initially identify the key product initiatives to start with. When more and and domain experts, potential users join the community, the product conceptual designs will be further validated and adapted to ensure the products will be aiming to solve problems and provide benefits for public, directly or indirectly.
 
 ![Web3 and Metaverse for Next Generation of Internet (the illustrative idea from Andy Martin)](.gitbook/assets/web3-metaverse-dao.png)
 
-The DAO will explore the possible innovations (for creating public goods) using Web3 and Metaverse in New World and Hybridy World:
+The community will organize and run as a self-sustaining Decentralized Autonomous Organization (DAO). The DAO will explore the possible innovations (for creating public goods) using Web3 and Metaverse in New World and Hybrid World:
 
-- create new business models or evolve the legacy businesses with DAO and DAO tokenomics
-- users are able control, manage, share, trade their own data and creativity
-- community-drive and decentralized infrastructure and services for Web3 and Metaverse
+* create new business models or evolve the legacy businesses with DAO and DAO tokenomics
+* users are able control, manage, share, trade their own data and creativity
+* community-drive and decentralized infrastructure and services for Web3 and Metaverse
 
 #### Overview
 
