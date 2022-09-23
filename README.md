@@ -4,7 +4,7 @@
 **This is a working in progress document (for initial drafting and internal review before it is ready for public)**
 {% endhint %}
 
-**dRimWeb** is a community driven project focused on funding and developing public goods in Metaverse and Web3 ecosystems. It aims to create and aggregate all the open-source resources required for building Web3 and Metaverse.&#x20;
+**dRimWeb** is a community driven project focused on funding and developing public goods in Metaverse and Web3 ecosystems. It aims to create and aggregate the open-source resources required for building Web3 and Metaverse.
 
 ![Web3 and Metaverse - next generation of internet](.gitbook/assets/web3-metaverse-overlap.png)
 
@@ -41,7 +41,7 @@ Look at the following to get to know dRimWeb:
 Learn the fundamentals of the DAO design to get a deeper understanding of the DAO main features:
 
 {% content-ref url="dao/projects.md" %}
-[dao-structure.md](dao/dao-structure.md)
+[projects.md](dao/projects.md)
 {% endcontent-ref %}
 
 {% content-ref url="dao/members.md" %}

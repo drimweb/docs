@@ -10,4 +10,4 @@ description: >-
 **This is a working in progress document (for internal review before it is ready for public)**
 {% endhint %}
 
-dRimWeb token is a DAO governance token and also a utility token to be used in dRimWeb ecosystem.
+dRimWeb token is a DAO governance token and also a utility token to be used in the dRimWeb ecosystem.
