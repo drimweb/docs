@@ -41,7 +41,7 @@ Look at the following to get to know dRimWeb:
 Learn the fundamentals of the DAO design to get a deeper understanding of the DAO main features:
 
 {% content-ref url="dao/projects.md" %}
-[projects.md](dao/dao-structure.md)
+[dao-structure.md](dao/dao-structure.md)
 {% endcontent-ref %}
 
 {% content-ref url="dao/members.md" %}
