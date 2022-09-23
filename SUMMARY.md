@@ -26,7 +26,7 @@
 
 ## Tokenomics
 
-* [What is dRimWeb token?](tokenomics/keyboard-shortcuts.md)
+* [What is dRimWeb token?](tokenomics/what-is-the-token.md)
 * [Token Utility](tokenomics/token-utility.md)
 * [Treasury](tokenomics/treasury.md)
 * [Incentives](tokenomics/incentives.md)
